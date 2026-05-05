@@ -1,0 +1,21 @@
+# Build
+/build
+/app/build
+
+# Local config
+local.properties
+
+# Android Studio
+.idea
+.gradle
+.kotlin
+
+
+app/google-services.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
